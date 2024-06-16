@@ -1,0 +1,35 @@
+<!-- flight-list.component.html -->
+
+<div class="container my-5">
+  <h1>Flights</h1>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Flight Number</th>
+        <th>Airline</th>
+        <th>Departure Airport</th>
+        <th>Arrival Airport</th>
+        <th>Departure DateTime</th>
+        <th>Arrival DateTime</th>
+        <th>Available Seats</th>
+        <th>Ticket Price</th>
+        <th>Edit</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let flight of flights">
+        <td>{{ flight.flightNumber }}</td>
+        <td>{{ flight.airline }}</td>
+        <td>{{ flight.departureAirport }}</td>
+        <td>{{ flight.arrivalAirport }}</td>
+        <td>{{ flight.departureDateTime | date:'short' }}</td>
+        <td>{{ flight.arrivalDateTime | date:'short' }}</td>
+        <td>{{ flight.availableSeats }}</td>
+        <td>{{ flight.ticketPrice | currency }}</td>
+        <td>
+          <a [routerLink]="['/flights', 'edit', flight.id]" class="btn btn-outline-secondary">Edit</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

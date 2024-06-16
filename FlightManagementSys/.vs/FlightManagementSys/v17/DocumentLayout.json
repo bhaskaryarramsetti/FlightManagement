@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|c:\\users\\bhask\\desktop\\cc\\flightmanagementsys\\flightmanagementsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69689DC9-A754-417D-8668-BC2BE3395638}|FlightManagementSys\\FlightManagementSys.csproj|solutionrelative:flightmanagementsys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Program.cs",
+              "RelativeDocumentMoniker": "FlightManagementSys\\Program.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Program.cs",
+              "RelativeToolTip": "FlightManagementSys\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:01:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "FlightManagementSys\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "FlightManagementSys\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:47:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "FlightManagementSys\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "FlightManagementSys\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:38:09.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "FlightManagementSys\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "FlightManagementSys\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:40:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightManagementSys\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\appsettings.json",
+              "RelativeToolTip": "FlightManagementSys\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T04:40:53.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FlightManagementSys\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Models\\User.cs",
+              "RelativeToolTip": "FlightManagementSys\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:37:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "FlightManagementSys\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\bhask\\Desktop\\cc\\FlightManagementSys\\FlightManagementSys\\Models\\Flight.cs",
+              "RelativeToolTip": "FlightManagementSys\\Models\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:34:06.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+
+<div class="container my-5">
+  <h1 class="mb-3">Edit Flight</h1>
+  <div class="row">
+  <div class="col-6">
+  <form #form="ngForm" (ngSubmit)="updateFlight()">
+  <div class="mb-3">
+  <label for="flightNumber" class="form-label">Flight Number</label>
+  <input type="text" class="form-control" id="flightNumber" readonly
+   name="flightNumber" [(ngModel)]="flightDetails.flightNumber" required>
+  </div>
+  <div class="mb-3">
+  <label for="airline" class="form-label">Airline</label>
+  <input type="text" class="form-control" id="airline"
+   name="airline" [(ngModel)]="flightDetails.airline" required>
+  </div>
+  <div class="mb-3">
+  <label for="departureAirport" class="form-label">Departure Airport</label>
+  <input type="text" class="form-control" id="departureAirport"
+   name="departureAirport" [(ngModel)]="flightDetails.departureAirport" required>
+  </div>
+  <div class="mb-3">
+  <label for="arrivalAirport" class="form-label">Arrival Airport</label>
+  <input type="text" class="form-control" id="arrivalAirport"
+   name="arrivalAirport" [(ngModel)]="flightDetails.arrivalAirport" required>
+  </div>
+  <div class="mb-3">
+  <label for="departureDateTime" class="form-label">Departure DateTime</label>
+  <input type="datetime-local" class="form-control" id="departureDateTime" name="departureDateTime" [(ngModel)]="flightDetails.departureDateTime" required>
+  </div>
+  <div class="mb-3">
+  <label for="arrivalDateTime" class="form-label">Arrival DateTime</label>
+  <input type="datetime-local" class="form-control" id="arrivalDateTime" name="arrivalDateTime" [(ngModel)]="flightDetails.arrivalDateTime" required>
+  </div>
+  <div class="mb-3">
+  <label for="availableSeats" class="form-label">Available Seats</label>
+  <input type="number" class="form-control" id="availableSeats" name="availableSeats" [(ngModel)]="flightDetails.availableSeats" required>
+  </div>
+  <div class="mb-3">
+  <label for="ticketPrice" class="form-label">Ticket Price</label>
+  <input type="number" class="form-control" id="ticketPrice" name="ticketPrice" [(ngModel)]="flightDetails.ticketPrice" required>
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Save</button>
+  <button type="submit" class="btn btn-danger"
+  (click)="deleteFlight(flightDetails.id)">Delete</button>
+  </form>
+  </div>
+  </div>
+  </div>
+
